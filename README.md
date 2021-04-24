@@ -1,8 +1,5 @@
 <!-- To got better view of this cv please visit https://benedicka.github.io/My-Digital-CV/-->
-## 🧑About Me
 
-_Currently I'm a Computer Science and Mathematics student at Bina Nusantara University. I enjoy solving problems and learn new things._ <br><br>
-Contact me : [Email](mailto:bens_91@yahoo.co.id)/[LinkedIn](https://www.linkedin.com/in/benedick-asdyo-997b981a2/)/[Facebook](https://web.facebook.com/ben.lijaya/)/[GitHub](https://github.com/benedicka)/[ICPC ID](https://icpc.global/ICPCID/TAWR9334OEVN)
 
 ## 💼Experience
 **Member of [Jollybee Binus Programming Team](https://jollybee.binus.ac.id/) (Feb 2018 – Feb 2021)** <br>
