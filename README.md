@@ -1,36 +1,20 @@
-## Benedick Asdyo
+### 🧑About Me
 
 _Currently I'm a Computer Science and Mathematics student at Bina Nusantara University. I enjoy solving problems and learn new things._ 
+Contact me : [Email](mailto:bens_91@yahoo.co.id)/[LinkedIn](https://www.linkedin.com/in/benedick-asdyo-997b981a2/)/[Facebook](https://web.facebook.com/ben.lijaya/)/[GitHub](https://github.com/benedicka)/[ICPC ID](https://icpc.global/ICPCID/TAWR9334OEVN)
 
-Contact me : [Email](mailto:bens_91@yahoo.co.id)/[LinkedIn](https://www.linkedin.com/in/benedick-asdyo-997b981a2/)/[Facebook](https://web.facebook.com/ben.lijaya/)/[GitHub](https://github.com/benedicka) 
-### Markdown
+### 💼Experience
+**Member of [Jollybee Binus Programming Team](https://jollybee.binus.ac.id/)_(Feb 2018 – Feb 2021)_**
+Jollybee is an organization that represents Binus University in collegiate level national and international competitive programming competitions. Me and all embers of Jollybee train and practice on a frequent and consistent basis to prepare for national and international collegiate competitive programming competition.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 🎓Education
+**Bina Nusantara University_(2017 – Present)_**
+I study at Bina Nusantara University majoring in Computer Science and Mathematics. Learned various topics ranging from Fundamental Mathematics and Computer Science to Computational Mathematics and Computing Technology
 
-```markdown
-Syntax highlighted code block
+**Regina Pacis Jakarta High School_(2015-2017)_**
+Studied at Regina Pacis Jakarta High School with Science major
 
-# Header 1
-## Header 2
-### Header 3
+### 🏆Achievements
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benedicka/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
