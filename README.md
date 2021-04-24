@@ -6,7 +6,10 @@ Contact me : [Email](mailto:bens_91@yahoo.co.id)/[LinkedIn](https://www.linkedin
 
 ## 💼Experience
 **Member of [Jollybee Binus Programming Team](https://jollybee.binus.ac.id/) (Feb 2018 – Feb 2021)** <br>
-Jollybee is an organization that represents Binus University in collegiate level national and international competitive programming competitions. All embers of Jollybee train and practice on a frequent and consistent basis to prepare for national and international collegiate competitive programming competition.
+Jollybee is an organization that represents Binus University in collegiate level national and international competitive programming competitions. All members of Jollybee are responsible to train and practice on a frequent and consistent basis to prepare for national and international collegiate competitive programming competition.
+
+**Participated in Writting article titled "Clustering IDX30 Before and After Pandemic: A Comparison" (Sept 2020 – Feb 2021)**<br>
+Participated in research and writting an article titled "Clustering IDX30 Before and After Pandemic: A Comparison" as well as got accepted by ICAAM and presented the article in ICAAM 2021 with Kevin Surya Pranata and Alexander Agung Santoso Gunawan. In this research I'm responsible for retrieve and cleaning the data used in research also help in the making python for the clustering, and analysis the data. Certificate of appreciation for participate in ICAAM or The International Conference Advanced in Applied Mathematics can be viewed [here](https://drive.google.com/file/d/1_xkt74PAeDGWvRzzHl3VXFC7FNP1hiLI/view?usp=sharing).<br>
 
 ## 🎓Education
 **Bina Nusantara University (2017 – Present)** <br>
@@ -34,8 +37,7 @@ Got by passed coding test with for some Intermediate level problems in HackerRan
 Got by passed coding test for basic Python from HackerRank.<br>
 **Kaggle Python Course**<br>
 Got by completed python course from Kaggle.<br>
-**Presented at The International Conference Advanced in Applied Mathematics (ICAAM) 2021**<br>
-Got by doing research and writting an article titled "Clustering IDX30 Before and After Pandemic: A Comparison" as well as got accepted by ICAAM and presented the article in ICAAM 2021 with Kevin Surya Pranata and Alexander Agung Santoso Gunawan.<br>
+
 
 ## 🖥️Skills
 **C++,Python,Java**<br>
