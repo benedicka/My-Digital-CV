@@ -32,7 +32,7 @@ _For other achievments please kindly visit my LinkedIn Profile by clicking [here
 
 ## 💡Certifications
 **HackerRank Problem Solving (Intermediate)**<br>
-Got by passed coding test with for some Intermediate level problems in HackerRank<br>
+Got by passed coding test with for Intermediate level problems that covers topics of Data Structures (such as HashMaps, Stacks and Queues) and Algorithms in HackerRank<br>
 **HackerRank Python (Basic)**<br>
 Got by passed coding test for basic Python from HackerRank.<br>
 **Kaggle Python Course**<br>
