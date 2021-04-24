@@ -1,6 +1,6 @@
 ### 🧑About Me
 
-_Currently I'm a Computer Science and Mathematics student at Bina Nusantara University. I enjoy solving problems and learn new things._ 
+_Currently I'm a Computer Science and Mathematics student at Bina Nusantara University. I enjoy solving problems and learn new things._ <br><br>
 Contact me : [Email](mailto:bens_91@yahoo.co.id)/[LinkedIn](https://www.linkedin.com/in/benedick-asdyo-997b981a2/)/[Facebook](https://web.facebook.com/ben.lijaya/)/[GitHub](https://github.com/benedicka)/[ICPC ID](https://icpc.global/ICPCID/TAWR9334OEVN)
 
 ### 💼Experience
