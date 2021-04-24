@@ -28,13 +28,13 @@ Technology Euphoria 2020 is a programming contest held by Sriwijaya University, 
 _For other achievments please kindly visit my LinkedIn Profile by clicking [here](https://www.linkedin.com/in/benedick-asdyo-997b981a2/)_
 
 ## 💡Certifications
-**HackerRank Problem Solving (Intermediate)**
+**HackerRank Problem Solving (Intermediate)**<br>
 Got by passed coding test with for some Intermediate level problems in HackerRank
-**HackerRank Python (Basic)**
+**HackerRank Python (Basic)**<br>
 Got by passed coding test for basic Python from HackerRank.
-**Kaggle Python Course**
+**Kaggle Python Course**<br>
 Got by completed python course from Kaggle.
-**Presented at The International Conference Advanced in Applied Mathematics (ICAAM) 2021**
+**Presented at The International Conference Advanced in Applied Mathematics (ICAAM) 2021**<br>
 Got by doing research and writting an article titled "Clustering IDX30 Before and After Pandemic: A Comparison" as well as got accepted by ICAAM and presented the article in ICAAM 2021 with Kevin Surya Pranata and Alexander Agung Santoso Gunawan.
 
 ## 🖥️Skills
