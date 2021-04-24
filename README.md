@@ -38,10 +38,10 @@ Got by completed python course from Kaggle.<br>
 Got by doing research and writting an article titled "Clustering IDX30 Before and After Pandemic: A Comparison" as well as got accepted by ICAAM and presented the article in ICAAM 2021 with Kevin Surya Pranata and Alexander Agung Santoso Gunawan.<br>
 
 ## 🖥️Skills
-**C++,Python,Java**
-**Mathematics**
-**Problem Solving**
-**Data Analysis**
+**C++,Python,Java**<br>
+**Mathematics**<br>
+**Problem Solving**<br>
+**Data Analysis**<br>
 
 
 
