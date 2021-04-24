@@ -1,5 +1,6 @@
 <!-- To got better view of this cv please visit https://benedicka.github.io/My-Digital-CV/-->
-
+## Contact
+[Email](mailto:bens_91@yahoo.co.id)/[LinkedIn](https://www.linkedin.com/in/benedick-asdyo-997b981a2/)/[Facebook](https://web.facebook.com/ben.lijaya/)/[Portofolio(GitHub)](https://github.com/benedicka)/[ICPC ID](https://icpc.global/ICPCID/TAWR9334OEVN)
 
 ## 💼Experience
 **Member of [Jollybee Binus Programming Team](https://jollybee.binus.ac.id/) (Feb 2018 – Feb 2021)** <br>
