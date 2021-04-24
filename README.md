@@ -29,13 +29,13 @@ _For other achievments please kindly visit my LinkedIn Profile by clicking [here
 
 ## 💡Certifications
 **HackerRank Problem Solving (Intermediate)**<br>
-Got by passed coding test with for some Intermediate level problems in HackerRank
+Got by passed coding test with for some Intermediate level problems in HackerRank<br>
 **HackerRank Python (Basic)**<br>
-Got by passed coding test for basic Python from HackerRank.
+Got by passed coding test for basic Python from HackerRank.<br>
 **Kaggle Python Course**<br>
-Got by completed python course from Kaggle.
+Got by completed python course from Kaggle.<br>
 **Presented at The International Conference Advanced in Applied Mathematics (ICAAM) 2021**<br>
-Got by doing research and writting an article titled "Clustering IDX30 Before and After Pandemic: A Comparison" as well as got accepted by ICAAM and presented the article in ICAAM 2021 with Kevin Surya Pranata and Alexander Agung Santoso Gunawan.
+Got by doing research and writting an article titled "Clustering IDX30 Before and After Pandemic: A Comparison" as well as got accepted by ICAAM and presented the article in ICAAM 2021 with Kevin Surya Pranata and Alexander Agung Santoso Gunawan.<br>
 
 ## 🖥️Skills
 **C++,Python,Java**
