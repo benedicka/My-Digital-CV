@@ -1,3 +1,4 @@
+<!-- To got better view of this cv please visit https://benedicka.github.io/My-Digital-CV/-->
 ## 🧑About Me
 
 _Currently I'm a Computer Science and Mathematics student at Bina Nusantara University. I enjoy solving problems and learn new things._ <br><br>
