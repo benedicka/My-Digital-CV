@@ -41,7 +41,5 @@ Got by completed python course from Kaggle.<br>
 **C++,Python,Java**<br>
 **Mathematics**<br>
 **Problem Solving**<br>
-**Data Analysis**<br>
-
 
 
